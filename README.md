@@ -1,5 +1,5 @@
 # knitting cotton & mushroom substrates
-input any given B&W PNG pixel image pattern --> generate instructions for machine knitting 
+## input any given B&W PNG pixel image pattern --> generate instructions for machine knitting 
 
 
 
