@@ -1,5 +1,6 @@
 # knitting cotton & mushroom substrates
-## B&W PNG pixel pattern --> generate instructions for machine knitting 
+## image (bw png pixel) pattern --> generate instructions for machine knitting 
+![cargoknitspeak1000](https://github.com/user-attachments/assets/1b89e894-6a62-48e1-9dde-51d1757630e7)
 
 
 
